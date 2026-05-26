@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white) ![asyncio](https://img.shields.io/badge/asyncio-paralelo-blue) ![Playwright](https://img.shields.io/badge/Playwright-async-2EAD33?logo=playwright&logoColor=white) ![Licença](https://img.shields.io/badge/licença-MIT-green)
 
-Versão assíncrona do robô SEMASA. Utiliza `asyncio` com Playwright para processar múltiplos registros em paralelo, reduzindo significativamente o tempo total de automação em lotes grandes.
+Versão assíncrona do robô SEMASA. Usa `asyncio` com Playwright para processar vários registros em paralelo, reduzindo consideravelmente o tempo total de execução em lotes grandes.
 
 ## Diferenças em relação ao python-sciweb
 
